@@ -1,0 +1,34 @@
+.banner {
+    font-weight: bold;
+    text-align: center;
+    color: green;
+}
+
+.recipe-link {
+    text-align: center;
+    font-weight: bold;
+}
+
+.home {
+    font-weight: bold;
+}
+
+.red-text {
+    color: red;
+}
+
+.blue-back {
+    background-color: blue;
+}
+
+.white-text {
+    color: white;
+}
+
+.green-back {
+    background-color: green;
+}
+
+.orange-text {
+    color: orange;
+}
